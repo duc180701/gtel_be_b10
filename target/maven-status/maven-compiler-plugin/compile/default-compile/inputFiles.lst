@@ -9,6 +9,7 @@ D:\WorkSpace\Projects\Learn_BE_GTEL\training\src\main\java\com\gtel\srpingtutori
 D:\WorkSpace\Projects\Learn_BE_GTEL\training\src\main\java\com\gtel\srpingtutorial\entity\LocationEntity.java
 D:\WorkSpace\Projects\Learn_BE_GTEL\training\src\main\java\com\gtel\srpingtutorial\entity\UserEntity.java
 D:\WorkSpace\Projects\Learn_BE_GTEL\training\src\main\java\com\gtel\srpingtutorial\exception\ApplicationException.java
+D:\WorkSpace\Projects\Learn_BE_GTEL\training\src\main\java\com\gtel\srpingtutorial\exception\GlobalExceptionHandler.java
 D:\WorkSpace\Projects\Learn_BE_GTEL\training\src\main\java\com\gtel\srpingtutorial\model\request\AirportRequest.java
 D:\WorkSpace\Projects\Learn_BE_GTEL\training\src\main\java\com\gtel\srpingtutorial\model\request\ConfirmOtpRegisterRequest.java
 D:\WorkSpace\Projects\Learn_BE_GTEL\training\src\main\java\com\gtel\srpingtutorial\model\request\LocationRequest.java

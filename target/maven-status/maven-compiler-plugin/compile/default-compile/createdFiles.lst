@@ -15,6 +15,7 @@ com\gtel\srpingtutorial\entity\AirportEntity.class
 com\gtel\srpingtutorial\utils\BcryptUtils.class
 com\gtel\srpingtutorial\model\request\AirportRequest.class
 com\gtel\srpingtutorial\redis\entities\RegisterUserEntity.class
+com\gtel\srpingtutorial\exception\GlobalExceptionHandler.class
 com\gtel\srpingtutorial\redis\repository\AirportRedisRepository.class
 com\gtel\srpingtutorial\repository\UserRepository.class
 com\gtel\srpingtutorial\model\request\ConfirmOtpRegisterRequest.class

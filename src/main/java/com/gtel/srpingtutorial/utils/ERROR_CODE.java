@@ -28,4 +28,12 @@ public enum ERROR_CODE {
         this.message = message;
     }
 
+
+    public String getErrorCode() {
+        return errorCode;
+    }
+
+    public String getMessage() {
+        return message;
+    }
 }

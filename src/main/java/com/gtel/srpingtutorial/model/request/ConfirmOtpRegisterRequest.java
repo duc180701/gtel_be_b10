@@ -7,6 +7,9 @@ public class ConfirmOtpRegisterRequest {
     private String transactionId;
     private String otp;
 
+    public ConfirmOtpRegisterRequest(String abc123, String number) {
+    }
+
     public String getTransactionId() {
         return transactionId;
     }
