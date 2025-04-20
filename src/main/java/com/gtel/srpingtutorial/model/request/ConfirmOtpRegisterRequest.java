@@ -10,6 +10,10 @@ public class ConfirmOtpRegisterRequest {
     public ConfirmOtpRegisterRequest(String abc123, String number) {
     }
 
+    public ConfirmOtpRegisterRequest() {
+
+    }
+
     public String getTransactionId() {
         return transactionId;
     }
